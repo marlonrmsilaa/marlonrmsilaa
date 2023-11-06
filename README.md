@@ -2,9 +2,9 @@
 <h1 align="center">Hi 👋, I'm marlon ramasila</h1>
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
 
-- 🔭 I’m currently student in **Instiki**
+- 🔭 I’m currently student in **indonesia**
 
-- 🌱 I’m currently learning at **colagge**
+- 🌱 I’m currently learning at **collage**
 
 - 💬 Ask me about **javasvript**
 
